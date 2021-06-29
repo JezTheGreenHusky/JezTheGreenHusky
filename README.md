@@ -37,3 +37,22 @@ Contacto:
 
 - 📫 How to reach me ...
 --->
+
+```py
+UUUUUUUU     UUUUUUUU                                                   UUUUUUUU     UUUUUUUU
+U::::::U     U::::::U                                                   U::::::U     U::::::U
+U::::::U     U::::::U                                                   U::::::U     U::::::U
+UU:::::U     U:::::UU                                                   UU:::::U     U:::::UU
+ U:::::U     U:::::U      wwwwwww           wwwww           wwwwwww      U:::::U     U:::::U 
+ U:::::D     D:::::U       w:::::w         w:::::w         w:::::w       U:::::D     D:::::U 
+ U:::::D     D:::::U        w:::::w       w:::::::w       w:::::w        U:::::D     D:::::U 
+ U:::::D     D:::::U         w:::::w     w:::::::::w     w:::::w         U:::::D     D:::::U 
+ U:::::D     D:::::U          w:::::w   w:::::w:::::w   w:::::w          U:::::D     D:::::U 
+ U:::::D     D:::::U           w:::::w w:::::w w:::::w w:::::w           U:::::D     D:::::U 
+ U:::::D     D:::::U            w:::::w:::::w   w:::::w:::::w            U:::::D     D:::::U 
+ U::::::U   U::::::U             w:::::::::w     w:::::::::w             U::::::U   U::::::U 
+ U:::::::UUU:::::::U              w:::::::w       w:::::::w              U:::::::UUU:::::::U 
+  UU:::::::::::::UU                w:::::w         w:::::w                UU:::::::::::::UU  
+    UU:::::::::UU                   w:::w           w:::w                   UU:::::::::UU    
+      UUUUUUUUU                      www             www                      UUUUUUUUU    
+```
