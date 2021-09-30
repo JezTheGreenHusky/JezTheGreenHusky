@@ -1,6 +1,6 @@
 <p align="center"><img src="https://cdn.discordapp.com/attachments/858100755189071916/859258310611435550/photo_2021-06-27_21-40-54.jpg" width="300" style="float:right;"/></p>
 
- <p align="center"> - 👋 Hi, I’m Jeziel C. </p>
+ <p align="center"> - 👋 Hi, I’m Jeziel</p>
  <p align="center"> - 👀 I’m interested in Web development and python </p>
  <p align="center"> - 🌱 I’m currently learning HTML, CSS and Python </p>
 
