@@ -2,7 +2,7 @@
 
  <p align="center"> - 👋 Hi, I’m Jeziel</p>
  <p align="center"> - 👀 I’m interested in Web development and python </p>
- <p align="center"> - 🌱 I’m currently learning HTML, CSS and Python </p>
+ <p align="center"> - 🌱 I’m currently learning HTML, CSS, JS and Python </p>
 
 <h1 align="center">--------- STATS ---------</h1>
  
