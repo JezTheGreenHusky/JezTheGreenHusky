@@ -26,7 +26,7 @@
 
  
 <!-- contacto -->
-Reach me:
+How to reach me:
 <div>
 <a href="https://www.linkedin.com/in/jeziel-andres-cordova-ibarra-41348222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a> 
 <img src="https://img.shields.io/badge/Jez%20Green%20Paws%236609-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
