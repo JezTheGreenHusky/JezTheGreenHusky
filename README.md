@@ -16,11 +16,11 @@
  --->
 <div>
 <a href="https://github.com/JezTheGreenHusky/github-readme-stats">
-  <img width=480px align="center" src="https://github-readme-stats.vercel.app/api?username=JezTheGreenHusky&show_icons=true&show_icons=true&theme=merko" />
+  <img width=440px align="center" src="https://github-readme-stats.vercel.app/api?username=JezTheGreenHusky&show_icons=true&show_icons=true&theme=merko" />
 </a>
 
 <a href="https://github.com/JezTheGreenHusky/github-readme-stats">
-  <img width=480px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JezTheGreenHusky&theme=merko" />
+  <img width=440px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JezTheGreenHusky&theme=merko" />
 </a>
 </div>
 
