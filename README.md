@@ -36,6 +36,7 @@ Reach me:
 <!--
 LINK DE LOS ICONOS:
 https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
+https://shields.io/
 
 
 telegram... para el futuro??
