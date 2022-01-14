@@ -7,7 +7,7 @@
  <p align="center"> - 👀 I’m interested in Web development and python </p>
  <p align="center"> - 🌱 I’m currently learning HTML, CSS, JS and Python </p>
 
-<a href="https://jezthegreenhusky.github.io/"><img src="https://img.shields.io/badge/Portfolio-look%20what%20can%20I%20do-%23%23005F0F?style=for-the-badge&logo=appveyor"></a>
+<a href="https://jezthegreenhusky.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-look%20what%20can%20I%20do-%23%23005F0F?style=for-the-badge&logo=appveyor" alt="portfolio"></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JezTheGreenHusky)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='github' height='40'>](https://github.com/JezTheGreenHusky)
