@@ -14,16 +14,25 @@
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JezTheGreenHusky&title_color=abd200&text_color=68b587&bg_color=0a0f0b)](https://github.com/JezTheGreenHusky/github-readme-stats)
  --->
+<div>
+<a href="https://github.com/JezTheGreenHusky/github-readme-stats">
+  <img width=480px align="center" src="https://github-readme-stats.vercel.app/api?username=JezTheGreenHusky&show_icons=true&show_icons=true&theme=merko" />
+</a>
 
 <a href="https://github.com/JezTheGreenHusky/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JezTheGreenHusky&show_icons=true&show_icons=true&theme=merko" />
+  <img width=480px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JezTheGreenHusky&theme=merko" />
 </a>
+</div>
+
+
+
+
 <a href="https://github.com/JezTheGreenHusky/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezTheGreenHusky&title_color=abd200&text_color=68b587&bg_color=0a0f0b" />
 </a>
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JezTheGreenHusky&theme=merko)
+
 
 <!---
 1 solo repositorio:
