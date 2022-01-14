@@ -4,6 +4,8 @@
  <p align="center"> - 👀 I’m interested in Web development and python </p>
  <p align="center"> - 🌱 I’m currently learning HTML, CSS, JS and Python </p>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JezTheGreenHusky)
+
 <h1 align="center">--------- STATS ---------</h1>
  
  
@@ -21,6 +23,8 @@
 </a>
 
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JezTheGreenHusky&theme=merko)
+
 <!---
 1 solo repositorio:
 
@@ -31,7 +35,6 @@
 <a href="https://github.com/JezTheGreenHusky/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezTheGreenHusky&title_color=abd200&text_color=68b587&bg_color=0a0f0b" />
 </a>
-
 
 Contacto:
 
@@ -56,3 +59,5 @@ UU:::::U     U:::::UU                                                   UU:::::U
     UU:::::::::UU                   w:::w           w:::w                   UU:::::::::UU    
       UUUUUUUUU                      www             www                      UUUUUUUUU    
 ```
+
+
