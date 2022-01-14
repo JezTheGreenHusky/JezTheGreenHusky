@@ -9,6 +9,12 @@
 
 <a href="https://jezthegreenhusky.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-look%20what%20can%20I%20do-%23%23005F0F?style=for-the-badge&logo=appveyor" alt="portfolio"></a>
 
+Reach me:
+<div>
+<img src="https://img.shields.io/badge/Jez%20Green%20Paws%236609-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
+</div>
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JezTheGreenHusky)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='github' height='40'>](https://github.com/JezTheGreenHusky)
 
