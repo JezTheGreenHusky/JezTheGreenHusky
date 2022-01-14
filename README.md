@@ -9,7 +9,7 @@
  <p align="center"> - 🌱 I’m currently learning HTML, CSS, JS and Python </p>
  
 <!-- portfolio -->
-<p align="center"><a href="https://jezthegreenhusky.github.io/" target="_blank"><img aling="center" src="https://img.shields.io/badge/Portfolio-look%20what%20can%20I%20do-%23%23005F0F?style=for-the-badge&logo=appveyor" alt="portfolio"></a></p>
+<p align="center">🔥<a href="https://jezthegreenhusky.github.io/" target="_blank"><img aling="center" src="https://img.shields.io/badge/Portfolio-look%20what%20can%20I%20do-%23%23005F0F?style=for-the-badge&logo=appveyor" alt="portfolio"></a>🔥</p>
 
 
  
@@ -38,25 +38,29 @@ Reach me:
 </div>
 
 <!-- lenguajes y tecnologias -->
-
+<h1 align="center">--------- SKILLS ---------</h1>
 <div>
 <img height='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img height='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img height='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img height='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">
  
 </div>
 
+<p><br><br></p>
 
-<a href="https://github.com/JezTheGreenHusky/github-readme-stats">
+<p align="center"><a href="https://github.com/JezTheGreenHusky/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JezTheGreenHusky&title_color=abd200&text_color=68b587&bg_color=0a0f0b" />
-</a>
-
-
+</a></p>
 
 
 <!---
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png
+
+<p align="center"></p>
+
+
 --->
 
 ```py
