@@ -30,10 +30,8 @@
 <h3>How to reach me:</h3>
 <div>
 <a href="https://www.linkedin.com/in/jeziel-andres-cordova-ibarra-41348222b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN"></a>
-
- <a href="https://steamcommunity.com/profiles/76561199041830855"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"></a>
-
- <img src="https://img.shields.io/badge/Jez%20Green%20Paws%236609-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
+<a href="https://steamcommunity.com/profiles/76561199041830855"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"></a>
+<img src="https://img.shields.io/badge/Jez%20Green%20Paws%236609-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
 </div>
 
 <!--
