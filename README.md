@@ -16,7 +16,7 @@
 
 
 <!-- mi foto -->
-<p align="center"><img src="https://jezthegreenhusky.github.io/img/yo.png" width="300" style="float:right;"/></p>
+<p align="center"><img src="https://jezthegreenhusky.github.io/assets/img/yo.png" width="300" style="float:right;"/></p>
 
  <p align="center"> - 👀 I’m interested in Web development and python </p>
  <p align="center"> - 🌱 I’m currently learning HTML, CSS, JS and Python </p>
