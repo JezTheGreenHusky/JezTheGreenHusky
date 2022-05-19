@@ -26,7 +26,7 @@
  <p align="center"> - 🩺 I’m Medical Technologist in Chile, I work taking X-rays in a medical center, and I LOVE it ❤</p>
  
 <!-- portfolio -->
-<p align="center">🔥<a href="https://jezthegreenhusky.github.io/" target="_blank"><img aling="center" src="https://img.shields.io/badge/Portfolio-look%20what%20can%20I%20do-%23%23005F0F?style=for-the-badge&logo=appveyor" alt="portfolio"></a>🔥</p>
+<p align="center">🔥<a href="https://jezthegreenhusky.github.io/" target="_blank"><img aling="center" src="https://img.shields.io/badge/Portfolio-look%20what%20I%20can%20do-%23%23005F0F?style=for-the-badge&logo=appveyor" alt="portfolio"></a>🔥</p>
 
  
 <!-- contacto -->
