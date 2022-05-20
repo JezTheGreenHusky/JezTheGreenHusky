@@ -1,4 +1,4 @@
-### <h1 align="center">👋 Hi, I’m Jeziel</h1>
+<h1 align="center">👋 Hi, I’m Jeziel</h1>
 <!--#### I am a JS full stack web developer-->
 
 <div>
