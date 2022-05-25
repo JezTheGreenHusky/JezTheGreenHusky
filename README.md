@@ -22,7 +22,7 @@
 <p align="center"><img src="https://jezthegreenhusky.github.io/assets/img/yo.png" width="300" style="float:right;"/></p>
 
  <p align="center"> - 👀 I’m interested in Web development and python </p>
- <p align="center"> - 🌱 I’m currently learning HTML, CSS, JS and Python </p>
+ <p align="center"> - 🌱 I’m currently learning Node.js, PostgreSQL and Python </p>
  <p align="center"> - 🩺 I’m Medical Technologist in Chile, I work taking X-rays in a medical center, and I LOVE it ❤</p>
  
 <!-- portfolio -->
