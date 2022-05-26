@@ -38,16 +38,6 @@
 <img src="https://img.shields.io/badge/Jez%20Green%20Paws%236609-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord">
 </div>
 
-<!--
-LINK DE LOS ICONOS:
-https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
-https://shields.io/
-
-
-telegram... para el futuro??
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
-https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
--->
 
 <!-- estadisticas -->
 <h1 align="center">--------- STATS ---------</h1>
@@ -110,13 +100,6 @@ https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoCol
 </a></p>
 
 
-<!---
-PARA CENTRAR:
-<p align="center"></p>
-
-
---->
-
 ```js
 let life = (me) => {
     while(me.live === true){
@@ -136,4 +119,20 @@ let life = (me) => {
 doYourBest(life("Jeziel Cordova"));
 ```
 
+<!---
+PARA CENTRAR:
+<p align="center"></p>
 
+https://github.com/DenverCoder1/DenverCoder1
+--->
+
+<!--
+LINK DE LOS ICONOS:
+https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use
+https://shields.io/
+
+
+telegram... para el futuro??
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+-->
