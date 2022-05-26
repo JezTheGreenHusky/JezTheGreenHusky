@@ -119,6 +119,10 @@ let life = (me) => {
 doYourBest(life("Jeziel Cordova"));
 ```
 
+<p align="center">
+  <img width=620px align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JezTheGreenHusky&theme=tokyonight">
+</p>
+
 <!---
 PARA CENTRAR:
 <p align="center"></p>
